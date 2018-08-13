@@ -1,0 +1,22 @@
+h1 
+{
+color: #456700;
+}
+
+body
+{
+background-color:blue;
+}
+
+div{
+	#background-color:yellow;
+	margin:10px;
+}	
+
+.row{
+	background-color: cyan;
+	display: flex;
+        flex-direction: row;	
+	flex-wrap: wrap;
+	justify-content: center;
+}
