@@ -4,14 +4,20 @@ about: Suggérer une idée, suggestion ou amélioration pour le projet
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Quel est l'application concernée ?
+Admin Panel, Cahier de textes, Docs, etc. 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Quel est le problème ou la fonctionnalité non existante ?**
+Une description claire et concise de ce qu'est le problème, la frsutration, la demande 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Quelle solution serait à proposer ?**
+Une description clair et concise de la solution ou de l'amélioration qui serait souhaitable de voir.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Quelles alternatives peuvent être prises en compte**
+
+
+**Contexte additionnel**
+*La demande des utilisateurs est-elle forte ?*
+*La solution semble-t-elle facile à metter en oeuvre ?*
+*La solution génére-t-elle des impacts autres ?*  
+
